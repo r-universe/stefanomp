@@ -1,9 +1,5 @@
 [
   {
-    "package": "massiveGST",
-    "oncran": true
-  },
-  {
     "package": "yaConsensus",
     "oncran": true
   }

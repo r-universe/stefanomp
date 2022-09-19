@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "massiveGST"]
-	path = massiveGST
-	url = https://github.com/stefanomp/massivegst
-	shallow = true
-	registered = true
 [submodule "yaConsensus"]
 	path = yaConsensus
 	url = https://github.com/stefanomp/yaconsensus
